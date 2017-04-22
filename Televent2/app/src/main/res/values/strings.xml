@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">"Televent"</string>
+    <string name="free">Free</string>
+    <string name="eventName">FIT FEST 4.0</string>
+    <string name="eventLocation">GSG Telkom Universty</string>
+    <string name="eventSchedule">KAMIS, 15 Mei 2017</string>
+    <string name="createEvent">Create Event</string>
+    <string name="listEvent">List Event</string>
+    <string name="calendar">Calendar Event</string>
+    <string name="profil">Profil</string>
+    <string name="profilMyTicket">My Ticket</string>
+</resources>
